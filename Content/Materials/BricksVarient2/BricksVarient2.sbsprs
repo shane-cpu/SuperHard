@@ -1,0 +1,5 @@
+<sbspresets formatversion="1.0" count="1"><sbspreset pkgurl="pkg://Bricks" label="" >
+<presetinput identifier="$outputsize" uid="84067390" type="8" value="10,10" />
+<presetinput identifier="Brick_Pattern_Style" uid="1821440941" type="4" value="0" />
+</sbspreset>
+</sbspresets>
